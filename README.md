@@ -1,7 +1,7 @@
 # DispoMail
 This is a disposable email app that quickly generates you a email to use! 
 
-#Features
+# Features
 
 -Quick and easy to use!
 
